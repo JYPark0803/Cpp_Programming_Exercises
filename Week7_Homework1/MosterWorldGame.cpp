@@ -13,5 +13,5 @@ void main()
 	game.add((Monster&)Monster("별그대", "★", rand() % w, rand() % h));
 	game.add((Monster&)Monster("고스트", "♥", rand() % w, rand() % h));
 	game.play(500, 10);
-	printf("------게임 종료-------------------\n");
+	printf("------------게임 종료------------\n");
 }
