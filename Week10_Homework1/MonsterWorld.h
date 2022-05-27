@@ -1,4 +1,3 @@
-
 #pragma once
 #include "Canvas.h"
 #include "VariousMonsters.h"
